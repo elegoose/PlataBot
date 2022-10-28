@@ -1,6 +1,6 @@
 # PlataBot
 
- Discord bot that compares the prices of steam store prices. It currently only supports two countries, Chile and Argentina. This is mainly because Chile is the country where I live in and it blew my mind how different the steam store prices between two neighbouring countries can be. It was made to show this abysmal difference. This project was made around mid 2020 and was just uplodead now. Some code was updated to be able to work properly again, and when I have the time I will update it to recover the lost search feature that I talk about in the discussion.
+ Discord bot that compares the prices of steam store prices. It currently only supports two countries, Chile and Argentina. This is mainly because Chile is the country where I live in and it blew my mind how different the steam store prices between two neighbouring countries can be. It was made to show this abysmal difference. This project was made around mid 2020 and was just uploaded now. Some code was updated to be able to work properly again, and when I have the time I will update it to recover the lost search feature that I talk about in the discussion.
  
  # Usage
  
